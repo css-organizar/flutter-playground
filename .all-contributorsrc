@@ -1,0 +1,42 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "prasadsunny1",
+      "name": "sanni prasad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11705392?v=4",
+      "profile": "http://prasadsunny1.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dhuma1981",
+      "name": "Dhrumil Shah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/298484?v=4",
+      "profile": "https://github.com/dhuma1981",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "EdgarFabiano",
+      "name": "Edgar Fabiano De Souza Filho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11666921?v=4",
+      "profile": "https://github.com/EdgarFabiano",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "FlutterPlayground",
+  "projectOwner": "ibhavikmakwana",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
