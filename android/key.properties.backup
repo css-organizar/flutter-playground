@@ -1,0 +1,4 @@
+storePassword=spa#1991
+keyPassword=spa#1991
+keyAlias=key
+storeFile=key.jks
